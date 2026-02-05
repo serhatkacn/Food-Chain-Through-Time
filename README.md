@@ -51,24 +51,12 @@ Serialization: The SaveLoadManager serializes the GameState into a structured te
 
 *Controls & Mechanics*
 Action	Control	Description
+
 Movement	Arrow Keys	Move 1 cell per turn.
+
 Special Ability	SPACE / SHIFT	Perform a Dash (2-turn cooldown).
+
 Scoring	Interaction	+3 for eating prey/food, -1 for being caught.
+
 Saving	Auto/End	Game state is logged to save.txt and gameLog.txt.
 
-*Getting Started*
-Prerequisites
-
-Java Development Kit (JDK) 11 or higher.
-
-Any Java IDE (IntelliJ IDEA, Eclipse, VS Code).
-
-Installation
-
-Clone the repository:
-
-Bash
-git clone https://github.com/yourusername/food-chain-through-time.git
-Open the project in your IDE.
-
-Run the Main.java class located in the app package.

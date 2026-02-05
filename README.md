@@ -49,7 +49,7 @@ FoodChainLoader: Demonstrates data-driven design by reading .txt configuration f
 
 Serialization: The SaveLoadManager serializes the GameState into a structured text format, allowing players to resume sessions perfectly.
 
-*Controls & Mechanics*
+*CONTROLS & MECHANICS*
 Action	Control	Description
 
 Movement	Arrow Keys	Move 1 cell per turn.

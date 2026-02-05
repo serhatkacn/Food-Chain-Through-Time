@@ -1,0 +1,1858 @@
+Game started
+Player: şelat
+Era: PRESENT
+Round 1
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 2
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 3
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 4
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 5
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 6
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 7
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 8
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 9
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 10
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Game winner: TIE! Winners: APEX_PREDATOR, PREDATOR, PREY
+Game started
+Player: 3
+Era: PRESENT
+Round 1
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 2
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 3
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 4
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 5
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 6
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 7
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 8
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 9
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 10
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 11
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 12
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 13
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 14
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 15
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 16
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 17
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 18
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 19
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 20
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 21
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 22
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 2
+--------------------
+Round 23
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 24
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 25
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 26
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 27
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 28
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 29
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 30
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 31
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 32
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 33
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 34
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 35
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 36
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 37
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 38
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 5
+--------------------
+Round 39
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 40
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 41
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 42
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 43
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 44
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 45
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 46
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 47
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 48
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 49
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 8
+--------------------
+Round 50
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 51
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 52
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 53
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 54
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 55
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 56
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 57
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 58
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 59
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 60
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 61
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 62
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 63
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 64
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 65
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 66
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 67
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 68
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 69
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 11
+--------------------
+Round 70
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 14
+--------------------
+Round 71
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 14
+--------------------
+Round 72
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 14
+--------------------
+Round 73
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 74
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 75
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 76
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 77
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 78
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 79
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 80
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 81
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 82
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 83
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 84
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 85
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 17
+--------------------
+Round 86
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 87
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 88
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 89
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 90
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 91
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 92
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 93
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 94
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 95
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 96
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 97
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 98
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 99
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 20
+--------------------
+Round 100
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 23
+--------------------
+Round 101
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 23
+--------------------
+Round 102
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 23
+--------------------
+Round 103
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 23
+--------------------
+Round 104
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 105
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 106
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 107
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 108
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 109
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 26
+--------------------
+Round 110
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 29
+--------------------
+Round 111
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 29
+--------------------
+Round 112
+APEX_PREDATOR Score: 0
+PREDATOR Score: 3
+PREY Score: 29
+--------------------
+Game started
+Player: serhad
+Era: PRESENT
+Round 1
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 0
+--------------------
+Round 2
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 0
+--------------------
+Round 3
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 0
+--------------------
+Round 4
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 0
+--------------------
+Round 5
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 0
+--------------------
+Round 6
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 3
+--------------------
+Round 7
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 3
+--------------------
+Round 8
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 3
+--------------------
+Round 9
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 3
+--------------------
+Round 10
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 6
+--------------------
+Round 11
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 6
+--------------------
+Round 12
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 6
+--------------------
+Round 13
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 14
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 15
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 16
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 17
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 18
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 19
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 20
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 21
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 22
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 23
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 24
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 25
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 26
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 27
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 28
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 29
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 30
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 31
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 32
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 33
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 34
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 35
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 36
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 37
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 38
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 39
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 40
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 41
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 42
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 43
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 44
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 45
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 46
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 47
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 48
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 49
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 50
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 51
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 52
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 53
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 54
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 55
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 56
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 57
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 58
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 59
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 60
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 61
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 62
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 63
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 64
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 65
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 66
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 67
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 68
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 69
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 70
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 71
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 72
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 73
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 74
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 75
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 76
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 77
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 78
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 79
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 80
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 81
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 82
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 83
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 84
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 85
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 86
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 87
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 88
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 89
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 90
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 91
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 92
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 93
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 94
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 95
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 96
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 97
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 98
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 99
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Round 100
+APEX_PREDATOR Score: 1
+PREDATOR Score: -1
+PREY Score: 9
+--------------------
+Game winner: PREY WINS!
+Game started
+Player: l
+Era: FUTURE
+Round 1
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 2
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 3
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 4
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 5
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 6
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 7
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 8
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 9
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 10
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 11
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 12
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 13
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 14
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 15
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 16
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 17
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 18
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 19
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 20
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 21
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 22
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 23
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 24
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 25
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 26
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 27
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 28
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 29
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 30
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 31
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 32
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 33
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 34
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 35
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 36
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 37
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 38
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 39
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 40
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 41
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 42
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 43
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 44
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 45
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 46
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 47
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 48
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 49
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 50
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 51
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 52
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 53
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 54
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 55
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 56
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 57
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 58
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 59
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 60
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 61
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 62
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 63
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 64
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 65
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 66
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 67
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 68
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 69
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 70
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 71
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 72
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 73
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 74
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 75
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 76
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 15
+--------------------
+Round 77
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 18
+--------------------
+Round 78
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 18
+--------------------
+Round 79
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 18
+--------------------
+Round 80
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 81
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 82
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 83
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 84
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 85
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 86
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 87
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 88
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 89
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 90
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 91
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 92
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 93
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 94
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 95
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 96
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 97
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 98
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 99
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Round 100
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 21
+--------------------
+Game winner: PREY WINS!
+Game started
+Player: h
+Era: PRESENT
+Round 1
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 2
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 3
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 4
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 5
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 6
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 0
+--------------------
+Round 7
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 8
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 3
+--------------------
+Round 9
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 10
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 11
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 12
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 13
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 14
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 15
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 16
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 17
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 6
+--------------------
+Round 18
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 19
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 20
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 21
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 22
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 23
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 9
+--------------------
+Round 24
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 25
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 26
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 27
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 28
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 29
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 30
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 31
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 32
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 33
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 34
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 35
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 36
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 37
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 38
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 39
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 40
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 41
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 42
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 43
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 44
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 45
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------
+Round 46
+APEX_PREDATOR Score: 0
+PREDATOR Score: 0
+PREY Score: 12
+--------------------

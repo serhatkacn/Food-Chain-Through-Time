@@ -4,7 +4,7 @@ Food Chain Through Time is a dynamic ecosystem simulation and strategy game buil
 <img width="1598" height="966" alt="image" src="https://github.com/user-attachments/assets/be5ba6b3-50f0-462a-905c-89daa86d9f81" />
 
 
-*Key Features*
+##*Key Features*
 Temporal Eras: Choose between Past, Present, and Future. Each era dynamically loads unique assets (backgrounds, animal sprites, and food types) via external configuration files.
 
 Three-Tier Ecosystem:
@@ -23,7 +23,7 @@ Persistence: Full Save/Load functionality and detailed action logging (gameLog.t
 The project is structured into modular packages to ensure separation of concerns and maintainability.
 
 
-1. Character System (Inheritance & Polymorphism)
+###1. Character System (Inheritance & Polymorphism)
 
 At the core is an Abstract Animal Class. This allows for a unified way to handle different entities while enforcing specific behaviors through subclasses.
 
@@ -32,7 +32,7 @@ Polymorphism: The useSpecial() and move() methods are overridden to provide role
 Encapsulation: Animal states (position, score, cooldowns) are managed through protected attributes and public getters/setters.
 
 
-2. AI Implementation
+###2. AI Implementation
 
 The ai package encapsulates complex decision-making logic:
 
@@ -41,7 +41,7 @@ PreyAI (Evaluation Heuristics): Analyzes 8-directional movement. It calculates a
 ApexPredatorAI (Targeting): Implements a "Greedy" approach, identifying the nearest target and calculating the optimal X/Y step to close the gap.
 
 
-3. Graphical User Interface (GUI)
+###3. Graphical User Interface (GUI)
 
 Built with Java Swing, the UI follows a structured rendering pipeline:
 
@@ -50,7 +50,7 @@ GameFrame: The main container that synchronizes the GameController with the visu
 Rendering Pipeline: Uses paintComponent to layer the background, grid, food, and animals. It includes a HUD (Heads-Up Display) for real-time score tracking and a legend for player guidance.
 
 
-4. Data Management & I/O
+###4. Data Management & I/O
 
 FoodChainLoader: Demonstrates data-driven design by reading .txt configuration files to spawn entities without hardcoding values.
 
@@ -58,7 +58,7 @@ Serialization: The SaveLoadManager serializes the GameState into a structured te
 
 
 
-*CONTROLS & MECHANICS*
+###*CONTROLS & MECHANICS*
 Action	Control	Description
 
 Movement	Arrow Keys	Move 1 cell per turn.

@@ -4,7 +4,7 @@ Food Chain Through Time is a dynamic ecosystem simulation and strategy game buil
 <img width="1598" height="966" alt="image" src="https://github.com/user-attachments/assets/be5ba6b3-50f0-462a-905c-89daa86d9f81" />
 
 
-##*Key Features*
+## *Key Features*
 Temporal Eras: Choose between Past, Present, and Future. Each era dynamically loads unique assets (backgrounds, animal sprites, and food types) via external configuration files.
 
 Three-Tier Ecosystem:
